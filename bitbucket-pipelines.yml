@@ -19,4 +19,4 @@ pipelines:
         script:
           - echo "Simulating build process..."
           - npm run build
-          - echo "Build simulation finished."
+          - echo "Build simulation finished......."
